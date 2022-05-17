@@ -1,0 +1,302 @@
+[
+    {
+        "id" : 1,
+        "name" : "Zachariah Schultz",
+        "email" : "erick.buckridge@example.net",
+        "phone" : "(262) 506-2890",
+        "address" : "3965 Gulgowski Summit Suite 599\nRunolfsdottirland, MN 76689",
+        "position" : "Back-End Developer",
+        "salary" : 1000,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 2,
+        "name" : "Aiyana Powlowski",
+        "email" : "romaguera.cindy@example.com",
+        "phone" : "(540) 273-2489",
+        "address" : "1254 Ellsworth Summit Suite 581\nLake Guillermo, VA 89379",
+        "position" : "QA analyst",
+        "salary" : 2000,
+        "skills" : "Jest, Jira, JavaScript, SQL"
+    },
+    {
+        "id" : 3,
+        "name" : "Dr. Dwight Mohr",
+        "email" : "kwillms@example.net",
+        "phone" : "+1.951.668.3608",
+        "address" : "912 Ayden Trail Apt. 936\nEast Marcella, NV 14381-0585",
+        "position" : "Back-End Developer",
+        "salary" : 15000,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 4,
+        "name" : "Bradford Kilback",
+        "email" : "qbeier@example.com",
+        "phone" : "651-843-1383",
+        "address" : "886 Kirstin Fork Suite 266\nHeidenreichport, DE 58683-6983",
+        "position" : "Back-End Developer",
+        "salary" : 2500,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 5,
+        "name" : "Anabelle Runte",
+        "email" : "raphaelle.corkery@example.com",
+        "phone" : "(509) 820-4251",
+        "address" : "40138 Purdy Run Apt. 550\nMarkston, LA 80409-1804",
+        "position" : "Mobile Developer",
+        "salary" : 2000,
+        "skills" : "React native, Android"
+    },
+    {
+        "id" : 6,
+        "name" : "Diego Ramos",
+        "email" : "dieqo.ramo@gmail.com",
+        "phone" : "947.854.8389",
+        "address" : "246 Parker Fords\nMadgeville, PA 09633",
+        "position" : "Back-End Developer",
+        "salary" : 3000,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 7,
+        "name" : "Theo Oberbrunner",
+        "email" : "jacobi.garry@example.com",
+        "phone" : "650.651.7996",
+        "address" : "15701 Trudie Shoal\nNorth Lulubury, PA 91440",
+        "position" : "Back-End Developer",
+        "salary" : 1530,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 8,
+        "name" : "Xavier Schulist",
+        "email" : "dickens.eunice@example.net",
+        "phone" : "+1.651.559.3625",
+        "address" : "84278 Becker Mills\nMarcellafurt, NH 05069-9070",
+        "position" : "Front-End Developer",
+        "salary" : 4000,
+        "skills" : "Angular, JavaScript, GitHub"
+    },
+    {
+        "id" : 9,
+        "name" : "Jany Stoltenberg",
+        "email" : "cole.sigmund@example.com",
+        "phone" : "458-933-8967",
+        "address" : "642 Zieme Drives Apt. 064\nHarrymouth, MD 69837-0996",
+        "position" : "Back-End Developer",
+        "salary" : 1700,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 10,
+        "name" : "Amari Hamill",
+        "email" : "domenico41@example.com",
+        "phone" : "+1 (385) 896-5759",
+        "address" : "86314 Ronaldo Locks Apt. 962\nLake Elliot, NV 93019-8126",
+        "position" : "Mobile Developer",
+        "salary" : 1800,
+        "skills" : "React native, Android"
+    },
+    {
+        "id" : 11,
+        "name" : "Ms. Bridie Schaefer Sr.",
+        "email" : "brionna.grady@example.org",
+        "phone" : "573-827-8524",
+        "address" : "5030 Heller Burgs\nNew Bethville, NJ 09500-7472",
+        "position" : "Back-End Developer",
+        "salary" : 3000,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 12,
+        "name" : "Minerva Klein Jr.",
+        "email" : "mertie33@example.com",
+        "phone" : "+1-508-853-4310",
+        "address" : "7361 Heller Summit Apt. 608\nLake Ava, WI 58330",
+        "position" : "Back-End Developer",
+        "salary" : 3500,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 13,
+        "name" : "Dr. Isaiah Bosco",
+        "email" : "tfeil@example.org",
+        "phone" : "754.871.2111",
+        "address" : "914 Carter Causeway Apt. 045\nAlysonburgh, CO 60487-0371",
+        "position" : "Mobile Developer",
+        "salary" : 4000,
+        "skills" : "React native, Android"
+    },
+    {
+        "id" : 14,
+        "name" : "Noble Leannon",
+        "email" : "mante.jeremie@example.net",
+        "phone" : "+1-930-546-5975",
+        "address" : "1894 Bins Rapids Apt. 729\nEast Roma, AL 41722-1642",
+        "position" : "Mobile Developer",
+        "salary" : 2000,
+        "skills" : "React native, Android"
+    },
+    {
+        "id" : 15,
+        "name" : "April Graham",
+        "email" : "little.janiya@example.org",
+        "phone" : "1-308-498-1150",
+        "address" : "7443 Gavin Island Suite 360\nSadyeburgh, DC 08843",
+        "position" : "Back-End Developer",
+        "salary" : 1660,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 16,
+        "name" : "Dr. Myra Metz",
+        "email" : "albertha58@example.net",
+        "phone" : "+18624732629",
+        "address" : "94732 Myra Turnpike\nKingfort, FL 27486-2056",
+        "position" : "QA analyst",
+        "salary" : 1650,
+        "skills" : "Jest, Jira, JavaScript, SQL"
+    },
+    {
+        "id" : 17,
+        "name" : "Prof. Robin Hegmann",
+        "email" : "kerluke.kali@example.com",
+        "phone" : "856.981.3524",
+        "address" : "8606 Boehm Crescent\nNew Lenna, VA 53409-4689",
+        "position" : "Front-End Developer",
+        "salary" : 1700,
+        "skills" : "Angular, JavaScript, GitHub"
+    },
+    {
+        "id" : 18,
+        "name" : "Caroline Ankunding",
+        "email" : "dayton.botsford@example.com",
+        "phone" : "+1.463.532.7678",
+        "address" : "88334 Jamal Villages Suite 986\nLake Paulstad, OK 49143-7303",
+        "position" : "Mobile Developer",
+        "salary" : 1800,
+        "skills" : "React native, Android"
+    },
+    {
+        "id" : 19,
+        "name" : "Elijah Lubowitz",
+        "email" : "ila46@example.net",
+        "phone" : "1-445-272-2487",
+        "address" : "611 Derek Land Suite 737\nEast Mayraville, NH 64650",
+        "position" : "Mobile Developer",
+        "salary" : 1900,
+        "skills" : "React native, Android"
+    },
+    {
+        "id" : 20,
+        "name" : "Ms. Clare Feil V",
+        "email" : "doconnell@example.com",
+        "phone" : "(339) 433-7087",
+        "address" : "403 Zemlak Keys\nBarthaven, IA 57852",
+        "position" : "QA analyst",
+        "salary" : 2000,
+        "skills" : "Jest, Jira, JavaScript, SQL"
+    },
+    {
+        "id" : 21,
+        "name" : "Mr. Jo Lesch IV",
+        "email" : "marco.rolfson@example.net",
+        "phone" : "+17018032159",
+        "address" : "6631 Mohr Unions\nWardton, AZ 68839",
+        "position" : "Front-End Developer",
+        "salary" : 10000,
+        "skills" : "Angular, JavaScript, GitHub"
+    },
+    {
+        "id" : 22,
+        "name" : "Diamond Funk",
+        "email" : "evan.cummerata@example.net",
+        "phone" : "+1 (806) 463-3539",
+        "address" : "64028 Nienow Creek\nNew Cristinachester, AL 18286",
+        "position" : "QA analyst",
+        "salary" : 5000,
+        "skills" : "Jest, Jira, JavaScript, SQL"
+    },
+    {
+        "id" : 23,
+        "name" : "Louvenia Graham",
+        "email" : "elda52@example.com",
+        "phone" : "(380) 986-4888",
+        "address" : "537 Israel Corners\nJamelland, IA 61672-8112",
+        "position" : "Front-End Developer",
+        "salary" : 4000,
+        "skills" : "Angular, JavaScript, GitHub"
+    },
+    {
+        "id" : 24,
+        "name" : "Joyce O'Kon Sr.",
+        "email" : "duncan.keeling@example.com",
+        "phone" : "628-423-9537",
+        "address" : "912 Alvis Ridges Apt. 687\nSouth Altheafort, IL 68414-2003",
+        "position" : "Back-End Developer",
+        "salary" : 10000,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 25,
+        "name" : "Barney Leuschke",
+        "email" : "brianne.stoltenberg@example.com",
+        "phone" : "(217) 629-2918",
+        "address" : "27084 Hettinger Shore\nPort Jasper, NH 88903-2966",
+        "position" : "Mobile Developer",
+        "salary" : 2000,
+        "skills" : "React native, Android"
+    },
+    {
+        "id" : 26,
+        "name" : "Weston Bartell",
+        "email" : "gtowne@example.org",
+        "phone" : "804.333.1892",
+        "address" : "66556 Gudrun Pines Apt. 948\nChamplinbury, AR 18888-1246",
+        "position" : "Front-End Developer",
+        "salary" : 10000,
+        "skills" : "Angular, JavaScript, GitHub"
+    },
+    {
+        "id" : 27,
+        "name" : "Dr. Maud Olson",
+        "email" : "jacobi.stacy@example.com",
+        "phone" : "1-870-812-6239",
+        "address" : "1319 McDermott Gardens Apt. 841\nEast Lexiside, NY 90557",
+        "position" : "Back-End Developer",
+        "salary" : 1750,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 28,
+        "name" : "Vladimir Metz",
+        "email" : "dgorczany@example.com",
+        "phone" : "+1-978-954-4802",
+        "address" : "41691 Lenora Trail\nPort Reubenchester, OH 04682",
+        "position" : "Mobile Developer",
+        "salary" : 10000,
+        "skills" : "React native, Android"
+    },
+    {
+        "id" : 29,
+        "name" : "Lucienne Raynor",
+        "email" : "zstoltenberg@example.org",
+        "phone" : "+1-520-402-5060",
+        "address" : "1697 Mosciski Run\nPort Norwood, LA 76944",
+        "position" : "Back-End Developer",
+        "salary" : 1800,
+        "skills" : "PHP, Java, Android, GitHub"
+    },
+    {
+        "id" : 30,
+        "name" : "Crawford Streich",
+        "email" : "dale05@example.org",
+        "phone" : "+1-805-951-4311",
+        "address" : "2342 Pfannerstill Pass\nNorth Leolaburgh, DC 76844-9507",
+        "position" : "Front-End Developer",
+        "salary" : 4000,
+        "skills" : "Angular, JavaScript, GitHub"
+    }
+]
